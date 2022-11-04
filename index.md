@@ -8,10 +8,8 @@ language: "en"     # lowercase two-letter ISO language code such as "fr" (see ht
 latlng: ""       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
 humandate: "Nov 8-9, 2022"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:30am - 1:00 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: 2022-11-08      # machine-readable start date for the workshop in YYYY-MM-DD format like 
-2015-01-01
-enddate: 2022-11-09        # machine-readable end date for the workshop in YYYY-MM-DD format like 
-2015-01-02
+startdate: 2022-11-08      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2022-11-09        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 scw_project: "scw1389"  # project code for the SCW training project for this event
 instructor: ["Ed Bennett", "Tianyi Pan"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Michael Pei"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
